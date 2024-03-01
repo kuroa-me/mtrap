@@ -1,0 +1,8 @@
+{
+  "cSpell.words": [
+    "polyline"
+  ],
+  "rust-analyzer.linkedProjects": [
+    "./Cargo.toml"
+  ]
+}
